@@ -19,4 +19,4 @@ Ahora Vamos a ir a nuestra carpeta del proyecto:
    por DataSource=[ElNombreDeTuServidor] copiado anteriormente. 
   
 
-  
+El proyecto debería ejecutarse sin problemas(>.<)!
